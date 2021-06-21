@@ -1,5 +1,5 @@
 # Project-Management-Dashboard
-Tableau for Creating Interactive Project Management Dashboard 
+Tableau- Interactive Project Management Dashboard 
 
 Online Dashboard::
 
